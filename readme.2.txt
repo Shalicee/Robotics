@@ -1,0 +1,2 @@
+This program computes the rotation matrices for a rotation on the X, Y, and Z axes.
+To run this program just enter the angle to be rotated and the program will output the rotation matricies for all three axes
